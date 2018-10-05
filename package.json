@@ -1,0 +1,34 @@
+{
+  "name": "urbestselfie-dev",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "geolib": "^2.0.24",
+    "html2canvas": "^1.0.0-alpha.12",
+    "jquery": "^3.3.1",
+    "post-image-to-twitter": "^1.0.1",
+    "react": "^16.5.0",
+    "react-aframe-ar": "^1.18.0",
+    "react-camera": "^0.1.3",
+    "react-container-dimensions": "^1.4.1",
+    "react-dom": "^16.5.0",
+    "react-geolocated": "^2.4.0",
+    "react-html5-camera-photo": "^1.2.8-beta.0",
+    "react-native": "^0.57.1",
+    "react-native-camera": "^1.2.0",
+    "react-native-view-shot": "^2.4.0",
+    "react-scripts": "1.1.5",
+    "react-toggle-display": "^2.2.0",
+    "tracking": "^1.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "webpack-merge": "^4.1.4"
+  }
+}
